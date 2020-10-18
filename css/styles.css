@@ -47,7 +47,7 @@ li {
 
 .h-buttons button {
     border-radius: 40px;
-    color: black;
+    color: rgb(58, 19, 19);
 }
 
 .menu-btn {
@@ -87,7 +87,7 @@ figcaption {
 
 .contact-overlay {
     height: inherit;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(18, 94, 15, 0.329);
 }
 
 input[type="email"] {
@@ -119,7 +119,7 @@ input[type="email"] {
 
 .data {
     height: inherit;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(148, 76, 29, 0.8);
     border-radius: 10px;
 }
 
@@ -160,7 +160,7 @@ h4 {
 .order-overlay {
     height: inherit;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(67, 24, 122, 0.9);
     border-radius: 20px;
 }
 
@@ -190,7 +190,7 @@ h4 {
 .menu-overlay {
     height: inherit;
     width: inherit;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(41, 18, 104, 0.7);
 }
 
 /*Background pic*/
@@ -202,7 +202,7 @@ h4 {
 }
 
 .overlay {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(28, 60, 61, 0.7);
     height: 100%;
 }
 
@@ -219,7 +219,7 @@ h4 {
 }
 
 .landing-text h1 {
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 60px;
 }
 
@@ -305,7 +305,7 @@ figure img {
     .menu-overlay {
         width: 100%;
         height: inherit;
-        background-color: rgba(0, 0, 0, 0.7);
+        background-color: rgba(202, 191, 95, 0.7);
     }
 
     .karibu-img {
@@ -346,7 +346,7 @@ figure img {
 
 @media (max-width: 991px) {
     .navbar:not(.top-nav-collapse) {
-        background: #3f51b5 !important;
+        background: #263799 !important;
     }
 
 }
