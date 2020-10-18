@@ -18,12 +18,12 @@ lee337lee.github.io/pizza-crave/.
 
 ## BDD 
 Inputs needed in this application include; 
-Pizza Flavour	
-Pizza size
-Pizza crust
-Pizza toppings
-Number of pizzas
-Delivery mode
-Delivery location
+Pizza Flavour,	
+Pizza size,
+Pizza crust,
+Pizza toppings,
+Number of pizzas,
+Delivery mode,
+Delivery location.
 
  
