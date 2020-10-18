@@ -13,4 +13,10 @@ Lee Githinji
  Jquery
 
 ## BDD 
- Inputs needed in this application include;  
+ Inputs needed in this application include; 
+ Pizza Flavour	
+ Pizza size
+ Pizza crust
+ Pizza toppings
+ Number of pizzas
+ Delivery mode
