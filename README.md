@@ -7,6 +7,8 @@ Lee Githinji. W.
 
 ## link: 
 
+lee337lee.github.io/pizza-crave/.
+
 ## Technologies Used 
  HTML5
  CSS3
@@ -15,12 +17,13 @@ Lee Githinji. W.
  Jquery
 
 ## BDD 
- Inputs needed in this application include; 
- Pizza Flavour	
- Pizza size
- Pizza crust
- Pizza toppings
- Number of pizzas
- Delivery mode
+Inputs needed in this application include; 
+Pizza Flavour	
+Pizza size
+Pizza crust
+Pizza toppings
+Number of pizzas
+Delivery mode
+Delivery location
 
  
